@@ -1,0 +1,7 @@
+pyautogui
+pygame
+pynput
+pywin32
+numpy
+opencv-python
+oss2
